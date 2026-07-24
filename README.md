@@ -31,3 +31,4 @@ On-call engineers receive a single, actionable email that highlights what to che
 Threat intel teams use the IOC table and enrichment as a starting point for deeper hunts.
 Security managers get consistent, repeatable incident summaries for escalation and post-incident reviews.
 Automation engineers integrate the JSON output into ticketing, SIEM playbooks, or orchestration workflows to accelerate response.
+https://codewords.agemo.ai/run/ai_soc_analyst_43201434
